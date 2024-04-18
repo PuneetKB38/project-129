@@ -1,0 +1,31 @@
+body
+{
+    background-color: rgb(238, 176, 225);
+}
+
+h1
+{
+    color: black;
+    font-weight: bold;
+    background-color: white;
+}
+
+#show_sketch
+{
+    float: right;
+    margin-right: 25px;
+    font-size: 20px;
+}
+
+#score
+{
+    float: left;
+    font-size: 25px;
+}
+
+#timer
+{
+    float: right;
+    font-size: 25px;
+    margin-right: 100px;
+}
